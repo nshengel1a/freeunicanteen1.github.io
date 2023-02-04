@@ -1,0 +1,282 @@
+  .logoo{
+    margin-left: 1300px ;
+  }
+  form {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    width: 20%;
+    padding: 12px 20px;
+    background-color: #4CAF50;
+    color: white;
+    margin: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+#panorama {
+      width: 650px;
+      height: 400px;
+      margin-top: 150px;
+  }  
+#page1-title {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 0px;
+  color: rgb(245, 234, 90);
+  text-decoration-line: overline;
+  line-break: loose;
+  font-size: "+2";
+  
+ 
+}
+#page1-title2{
+  text-align: left;
+  margin-top: 300px;
+  margin-right: -660px;
+  color:rgb(50, 100, 102)
+}
+
+  #page1-title3 {
+      text-align: right;
+      margin-top: -400px; 
+      margin-right: 100px;
+      color: rgb(245, 234, 90);
+      }
+
+  
+#page1-title4 {text-align: center;
+  text-decoration-line: underline;
+  margin-top: 80px; 
+  margin-left: 150px;
+  color: rgb(245, 234, 90);
+ 
+  }
+ 
+#page1-title5 {
+  text-align: right;
+  margin-top:  -5px;
+  margin-right: 525px;
+  color:rgb(245, 234, 90)
+}
+#page1-title6{
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 250px;
+  color: rgb(245, 234, 90)
+}
+#page1-title7{text-align: center;
+  margin-top: 25px;
+  margin-left: 455px;
+  color: rgb(245, 234, 90)
+
+}
+#page1-title8{
+  text-align: center;
+  margin-top:25px;
+  margin-left: 680px;
+  color:rgb(245, 234, 90)
+}
+#page1-title9{
+  text-align: right;
+  margin-right: 300px;
+  color: rgb(245, 234, 90)
+  }
+
+.container {
+  width: 200%;
+  height: 0vh;
+  background:rgb(245, 234, 90);
+  display: flex;
+  margin-top: -120px;
+   }
+
+   form{
+      background: none ;
+      margin-top: 5px;
+      width:350px;
+      height:55px;
+      display: flex;
+  }
+
+  form input{
+      flex: 1;
+      border: none;
+      outline: none;
+  }
+  form button{
+      background: rgb(245, 234, 90);
+      padding: 10px 50px;
+      border: none;
+      outline: none;
+      color: rgb(245, 234, 90);
+      letter-spacing: 1px;
+      cursor: pointer;
+  }
+  form.fa search{
+      align-self: center;
+      padding: 10px 20px;
+      color: #777;
+  }
+
+#btn {
+  text-align: center;
+  margin-top: -50px;
+  margin-left: 820px ;
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+}
+#btnartura {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 620px ;
+  width: 400px;
+  height: 100px;
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+}
+#btn2 {
+  text-align: center;
+  margin-top: -45px;
+  margin-left: 990px ;
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+
+}
+#btn3 {
+  text-align: center;
+  margin-top: -80px;
+  margin-left: 1150px ;
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+
+}
+#page1-titleC {
+  margin-left: -100px;
+  margin-top: 170px;
+  color: #fff
+}
+
+#page1-titleA {
+  text-align: center;
+  margin-top: 60px; 
+  margin-right: 0px;
+  color: rgb(245, 234, 90);
+  text-decoration-line: underline; 
+
+}
+#page1-titleArt{
+  text-align: right;
+margin-top: -500px;
+margin-right: 1000px;
+ 
+  color: rgb(245, 234, 90)
+}
+.page1-Arthura {
+ 
+  width: 700px;
+  height: 500px;
+  margin-left: 715px;
+  margin-top: 50px;
+
+}
+.arthur-list {
+  text-align: left;
+  margin-top: 5px;
+
+  color: rgb(245, 234, 90)
+
+}
+#page2-titleC {
+  margin-left: -100px;
+  margin-top: 300px;
+  color: #fff
+}
+#page2-titleA {
+  text-align: center;
+  margin-top: 50px; 
+  margin-right: 0px;
+  color: rgb(245, 234, 90);
+  text-decoration-line: underline; 
+
+}
+#page2-titleArt{
+  text-align: right;
+margin-top: 100px;
+margin-right: 1000px;
+ 
+  color: rgb(245, 234, 90)
+}
+.funtusha-list {
+  text-align: left;
+  margin-top: -450px;
+
+  color: rgb(245, 234, 90)
+
+
+}
+#page3-titleC {
+  margin-left: -100px;
+  margin-top: 300px;
+  color: #fff
+}
+#page3-titleA {
+  text-align: center;
+  margin-top: 100px; 
+  margin-right: 0px;
+  color: rgb(245, 234, 90);
+  text-decoration-line: underline; 
+
+}
+
+#page3-titleArt{
+  text-align: right;
+margin-top: 100px;
+margin-right: 1000px;
+ 
+  color: rgb(245, 234, 90)
+}
+.page3-gvanca {
+ 
+  width: 600px;
+  height: 500px;
+  margin-left: 715px;
+  margin-top: -20px;
+
+}
+.gvanca-list {
+  text-align: left;
+  margin-top: 300px;
+
+  color: rgb(245, 234, 90)
+
+
+}
+.page2-funtusha {
+ 
+  width: 700px;
+  height: 500px;
+  margin-left: 715px;
+  margin-top: 50px;
+}
+#btn10{
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+}
+#colorChanger{
+  color: rgb(245, 234, 90);
+  background-color: rgb(50, 100, 102);
+}
